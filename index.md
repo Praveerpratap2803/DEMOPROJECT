@@ -7,4 +7,7 @@ git and filename
 git commit -m "the commit message"
 git status
 git and filename
-
+### adding a remote
+git remote add origin
+generally the default remote
+git remote -v
